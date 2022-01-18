@@ -30,4 +30,4 @@ We do not accept transcript orders my mail, fax or email. All orders must be pla
 
 ---
 
-In order to make the text legible I added a header denotation to "Temple Transcript Request Text" and the subsequent secitons and made sure there were proper line spaces within the markdown to separate lines of texts from headers. 
+In order to make the text legible I added a header denotation to "Temple Transcript Request Text" and the subsequent sections and made sure there were proper line spaces within the markdown to separate lines of texts from headers. 
