@@ -27,4 +27,4 @@ We do not accept transcript orders my mail, fax or email. All orders must be pla
 
 ---
 
-In order to make the text legible I added a header denotation to "Temple Transcript Request Text", made sure there were proper line spaces within the markdown to separate lines of texts from headers, and bolded "Student Responsibility" to make it more noticable without making it into a header.
+In order to make the text legible I added a header denotation to "Temple Transcript Request Text", made sure there were proper line spaces within the markdown to separate lines of texts from headers, and bolded "Student Responsibility" as well as italicized the hypothetical question to make it more noticable without making it into a header.
