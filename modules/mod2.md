@@ -12,6 +12,7 @@ Transcript key explaining the grading system is available for download.
  
 
 **Student Responsibility**
+
 Check with the recipient regarding how they would like to receive your transcript.
 You must provide a valid e-mail address or a mailing address for the recipient if you are not sending the transcript to an In-Network recipient.
 If you are sending a transcript to an In-Network recipient, you are responsible for confirming the recipient details.
