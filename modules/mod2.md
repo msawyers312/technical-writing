@@ -21,7 +21,7 @@ Students are required to pay their outstanding tuition balance in-full in order 
 
  
 
-Can I request a transcript by mail, fax, or email?
+*Can I request a transcript by mail, fax, or email?*
 
 We do not accept transcript orders my mail, fax or email. All orders must be placed online. Unsolicited requests for transcripts made by mail, fax, or email will be discarded.
 
