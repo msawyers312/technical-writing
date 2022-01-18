@@ -1,12 +1,12 @@
 # Temple Transcript Request Text
 
-*What is an official transcript?*
+## What is an official transcript?
 
 An official transcript is your certified academic record. An official transcript displays the terms you attended, graded courses, academic programs, and other relevant academic information. 
 
 Current students, former students and alumni can place an order for an official paper transcript or an electronic transcript (eTranscript).
 
-*Unofficial transcript:*
+## Unofficial transcript:
 
 Office of the University Registrar does not provide copies of unofficial transcripts. Unofficial transcripts are available for review in Self-Service Banner for current students and alumni.
 
@@ -14,7 +14,7 @@ Transcript key explaining the grading system is available for download.
 
  
 
-**Student Responsibility**
+## Student Responsibility
 
 Check with the recipient regarding how they would like to receive your transcript. You must provide a valid e-mail address or a mailing address for the recipient if you are not sending the transcript to an In-Network recipient.
 
@@ -24,10 +24,10 @@ Students are required to pay their outstanding tuition balance in-full in order 
 
  
 
-*Can I request a transcript by mail, fax, or email?*
+***Can I request a transcript by mail, fax, or email?***
 
 We do not accept transcript orders my mail, fax or email. All orders must be placed online. Unsolicited requests for transcripts made by mail, fax, or email will be discarded.
 
 ---
 
-In order to make the text legible I added a header denotation to "Temple Transcript Request Text", made sure there were proper line spaces within the markdown to separate lines of texts from headers, and bolded "Student Responsibility" as well as italicized the hypothetical question to make it more noticable without making it into a header.
+In order to make the text legible I added a header denotation to "Temple Transcript Request Text" and the subsequent secitons and made sure there were proper line spaces within the markdown to separate lines of texts from headers. 
