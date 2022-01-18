@@ -11,6 +11,7 @@ Transcript key explaining the grading system is available for download.
 
  
 
+
 **Student Responsibility**
 
 Check with the recipient regarding how they would like to receive your transcript.
