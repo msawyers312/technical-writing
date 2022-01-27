@@ -1,6 +1,6 @@
 <!-- Inserting images with local files -->
 
-![Apple Logo]()
+![Apple Logo](apple_logo.jpg)
 
 ![Temple University Logo]()
 
