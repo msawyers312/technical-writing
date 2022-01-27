@@ -1,5 +1,7 @@
 <!-- Inserting images with local files -->
 
+![Apple Logo]()
+
 ![Temple University Logo]()
 
 <figure>
